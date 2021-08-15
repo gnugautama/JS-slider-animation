@@ -1,1 +1,1 @@
-# JS-slider-animation
+# JS-animation-with-gsap
